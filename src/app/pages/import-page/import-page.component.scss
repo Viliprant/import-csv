@@ -1,0 +1,8 @@
+:host{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+::ng-deep div.wrapper{
+    width: 70vw;
+}
